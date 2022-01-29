@@ -5,7 +5,7 @@
         B(README.md)
     end
     subgraph feed-fetcher app;
-        C(![](img/zenn.png)<br>Zenn)
+        C(<img src='img/zenn.png' width='40' height='40' /><br>Zenn)
     end
     A -->|Step2. Update| B
     A -->|Step1. Install app| C
