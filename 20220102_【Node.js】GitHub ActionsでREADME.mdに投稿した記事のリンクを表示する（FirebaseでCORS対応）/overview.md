@@ -19,7 +19,7 @@ graph TD;
         D(<img src='https://simpleicons.org/icons/zenn.svg' width='20' /><br>Zenn)
         E(<img src='https://simpleicons.org/icons/qiita.svg' width='20' /><br>Qiita)
         F(<img src='https://simpleicons.org/icons/wordpress.svg' width='20' /><br>WordPress)
-        M(<img src='https://simpleicons.org/icons/wordpress.svg' width='20' /><br>note)
+        M(far:fa-sticky-note<br>note)
     end
     style D fill:#ffffff,color:#000000,stroke:#000000,stroke-width:2
     style E fill:#ffffff,color:#000000,stroke:#000000,stroke-width:2
@@ -45,4 +45,5 @@ graph TD;
     I -->|command<br>to deploy|K
     I -->|push| C
     K -->|deploy<br>functions| L
+
 ```
