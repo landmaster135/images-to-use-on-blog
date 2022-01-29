@@ -10,5 +10,4 @@ graph TD;
     end
     A -->|Step2. Update| B
     A -->|Step1. Install app| C
-    E -->|Three| F[fa:fa-car Car]
 ```
