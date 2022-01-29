@@ -1,4 +1,4 @@
-<div class="mermaid">
+```mermaid
     graph TD;
     subgraph Landmaster135;
         A[GitHub Actions]
@@ -9,5 +9,5 @@
     end
     A -->|Step2. Update| B
     A -->|Step1. Install app| C
-</div>
+```
 
